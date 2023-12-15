@@ -10,6 +10,7 @@
 
 - [Utilização de operadores básicos](#operadores_basicos)
 - [Obter informações de hora](#info_horas)
+- [Requisitos](#requisitos)
 
 
 ## 🧐 Operadores básicos <a name = "operadores_basicos"></a>
@@ -27,4 +28,10 @@ Estes são apenas alguns exemplos de operadores básicos em Python. A compreens�
 
 A biblioteca datetime em Python é uma poderosa ferramenta para lidar com datas e horas. Ela fornece classes e funções para manipulação de datas, horas, intervalos de tempo e operações relacionadas.
 
+
+## ⚙️ Requisitos <a name = "requisitos"></a>
+
+Até o momento as únicas bibliotecas utilizadas são:
+- Datetime: Já vem com o Python
+- logging: Já vem com o Python 
 
