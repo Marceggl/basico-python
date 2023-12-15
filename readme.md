@@ -10,8 +10,8 @@
 
 - [Utilização de operadores básicos](#operadores_basicos)
 - [Obter informações de hora](#info_horas)
+- [Utilização e manipulação de listas](#listas)
 - [Requisitos](#requisitos)
-
 
 ## 🧐 Operadores básicos <a name = "operadores_basicos"></a>
 
@@ -23,6 +23,10 @@ Python, uma linguagem de programação poderosa e fácil de aprender, oferece di
 - Atribuição: Além do operador de atribuição = para atribuir valores a variáveis, Python oferece operadores de atribuição combinados, como +=, -=, *=, /=, que são úteis para operações em variáveis existentes.
 
 Estes são apenas alguns exemplos de operadores básicos em Python. A compreensão desses operadores é essencial para a manipulação eficaz de dados e lógica em programas Python.
+
+## Utilização e manipulação de listas <a name="listas"></a>
+
+As listas são uma ferramenta poderosa em Python, permitindo que você armazene e manipule coleções de dados de maneira eficiente. Imagine uma lista de compras onde você pode adicionar ou remover itens conforme necessário. Em Python, uma lista é semelhante, mas pode conter qualquer tipo de dado: números, palavras, até mesmo outras listas!
 
 ## 💡 Obter hora atual <a name = "info_horas"></a>
 
