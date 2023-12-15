@@ -1,3 +1,11 @@
+'''
+ # @ Author: Marcel Barreto
+ # @ Create Time: 2023-12-14 23:36:24
+ # @ Modified by: Marcel Barreto
+ # @ Modified time: 2023-12-15 00:39:18
+ # @ Description: Válidar se um número é impar ou par de modo estruturado
+ '''
+
 import logging
 
 def validador_par_impar(x):
