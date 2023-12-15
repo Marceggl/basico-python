@@ -26,7 +26,7 @@ Estes são apenas alguns exemplos de operadores básicos em Python. A compreens�
 
 ## Utilização e manipulação de listas <a name="listas"></a>
 
-As [listas](https://github.com/Marceggl/Atividades-basicas-python/tree/main/listas) são uma ferramenta poderosa em Python, permitindo que você armazene e manipule coleções de dados de maneira eficiente. Imagine uma lista de compras onde você pode adicionar ou remover itens conforme necessário. Em Python, uma lista é semelhante, mas pode conter qualquer tipo de dado: números, palavras, até mesmo outras listas!
+As [listas](https://github.com/Marceggl/Atividades-basicas-python/blob/main/listas/LISTAS.md) são uma ferramenta poderosa em Python, permitindo que você armazene e manipule coleções de dados de maneira eficiente. Imagine uma lista de compras onde você pode adicionar ou remover itens conforme necessário. Em Python, uma lista é semelhante, mas pode conter qualquer tipo de dado: números, palavras, até mesmo outras listas!
 
 ## 💡 Obter hora atual <a name = "info_horas"></a>
 

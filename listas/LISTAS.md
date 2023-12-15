@@ -2,8 +2,6 @@
 
 ## 📝 Conteúdo
 
-- [Utilização de operadores básicos](#operadores_basicos)
-- [Obter informações de hora](#info_horas)
 - [Utilização e manipulação de listas](#listas)
 - [Requisitos](#requisitos)
 
