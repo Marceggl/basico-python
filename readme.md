@@ -23,47 +23,45 @@ Até o momento, as únicas bibliotecas utilizadas são as nativas do Python, com
 
 ## Alguns exemplos <a name="samples"></a>
 
-- [Calculos]()
+- [Calculos](https://github.com/Marceggl/basico-python/tree/main/exemplos/calculos)
 
-- [Comparações]()
+- [Comparações](https://github.com/Marceggl/basico-python/tree/main/exemplos/comparacoes)
 
-- [Dicionários](https://github.com/Marceggl/basico-python/blob/main/vetores/Dicionario/dicionarios.md)
+- [Pandas](https://github.com/Marceggl/basico-python/tree/main/exemplos/pandas)
 
-- [Listas](https://github.com/Marceggl/Atividades-basicas-python/blob/main/stas/LISTAS.md)
+- [Dicionários](https://github.com/Marceggl/basico-python/tree/main/exemplos/Dicionario)
 
-- [Vetores]()
+- [Listas](https://github.com/Marceggl/basico-python/tree/main/exemplos/Listas)
 
-- [imagens](https://github.com/Marceggl/basico-python/blob/main/imagens/lidar-com-imagens.md)
-
-- [Mais exemplos de código]()
+- [Mais exemplos de código](https://github.com/Marceggl/basico-python/tree/main/exemplos)
 
 ## 💡 Adições futuras <a name = "requisitos"></a>
 
-- Strings
+[-] Strings
 
-- Estruturas de Controle
+[-] Estruturas de Controle
 
-- Funções
+[-] Funções
 
-- Classes
+[-] Classes
 
-- Tratamento de Erros
+[-] Tratamento de Erros
 
-- Arquivos
+[-] Arquivos
 
-- Módulos e Pacotes
+[-] Módulos e Pacotes
 
-- Conjuntos e Tuplas
+[-] Conjuntos e Tuplas
 
-- Expressões Lambda e Funções de Ordem Superior
+[-] Expressões Lambda e Funções de Ordem Superior
 
-- Compreensões de Lista e Dicionário
+[-] Compreensões de Lista e Dicionário
 
-- Manipulação de Data e Hora
+[-] Manipulação de Data e Hora
 
-- Expressões Regulares
+[-] Expressões Regulares
 
-- Manipulação de JSON
+[-] Manipulação de JSON
 
 ## ⚙️ Requisitos <a name = "requisitos"></a>
 
